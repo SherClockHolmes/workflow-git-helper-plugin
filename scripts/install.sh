@@ -1,0 +1,1 @@
+go install ${WORKFLOW_PLUGIN_TEMP_DIR}

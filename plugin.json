@@ -1,0 +1,7 @@
+{
+  "name": "Git Helper",
+  "description": "Git helpers for Workflow CI",
+  "install": "scripts/install.sh",
+  "uninstall": "scripts/uninstall.sh",
+  "version": "0.0.1"
+}

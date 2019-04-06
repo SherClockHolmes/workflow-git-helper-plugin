@@ -1,1 +1,1 @@
-go clean -i ${WORKFLOW_PLUGIN_TEMP_DIR}
+rm /usr/local/bin/git-helper

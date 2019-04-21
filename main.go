@@ -4,7 +4,7 @@ import (
 	"flag"
 	"log"
 
-	"github.com/SherClockHolmes/workflow-git-helper-plugin/git"
+	"github.com/workflow-ci/workflow-git-helper-plugin/git"
 )
 
 func main() {

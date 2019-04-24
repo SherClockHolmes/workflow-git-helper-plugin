@@ -1,1 +1,1 @@
-rm /usr/local/bin/git-helper
+rm ${WORKFLOW_PLUGIN_BIN_DIR}/git-helper
